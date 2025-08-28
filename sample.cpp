@@ -1,4 +1,4 @@
-// YOUR NAME HERE
+//Tristan Gannon
 #include <iostream>
 using namespace std;
 
